@@ -5,4 +5,4 @@ The dataset contains collision occurrences and the actions and outcomes for indi
 
 The data ingestion pipeline for collisions comes from multiple sources with multiple degrees of data accuracy (and processing speeds) – the fatalities and serious injuries come from Toronto Police Services (TPS), while minor injury and property damage only collisions come from the Collision Reporting Centre (CRC).  
 
-- NOTE: `involved_injury_class` = FATAL or MAJOR is complete for 2019, but anything else ('NONE', 'MINIMAL', 'MINOR') is not after July 2019 inclusive.
+- NOTE: `involved_injury_class` = FATAL or MAJOR is complete for 2019, but anything else (NONE, MINIMAL, MINOR) is not after July 2019 inclusive.
