@@ -5,4 +5,4 @@ This is a consulting project by City of Toronto which is being done at Insight D
 
 	* The data ingestion pipeline for collisions comes from multiple sources with multiple degrees of data accuracy (and processing speeds) – the fatalities and serious injuries come from Toronto Police Services (TPS), while minor injury and property damage only collisions come from the Collision Reporting Centre (CRC).
 
-2. Boundaries of City of Toronto Neighbourhoods.
+2. Boundaries of City of Toronto Neighbourhoods. It contains the name and geometry information of 140 neighbourhoods located in Toronto.
