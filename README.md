@@ -1,4 +1,4 @@
-This is a consulting project by City of Toronto. Toronto’s **Vision Zero** initiative is a road safety plan focused on reducing traffic-related fatalities and serious injuries. The main aim of this project is to predict traffic collision and understand the causes of crashes, which could finally provide the authorities with some useful insights to reduce injuries and fatalities on the city’s streets by taking actions such as:
+This is a consulting project by City of Toronto. Toronto’s **Vision Zero** initiative is a road safety plan focused on reducing traffic-related fatalities and serious injuries. The main aim of this project is to predict traffic collisions and understand the causes of crashes, which could finally provide the authorities with some useful insights to reduce injuries and fatalities on the city’s streets by taking actions such as:
 - Emergency vehicle allocation
 - Roadway design
 - Where to place additional signs (e.g. warning for curves, speed limit)
