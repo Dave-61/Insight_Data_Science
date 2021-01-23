@@ -7,7 +7,7 @@ This was a consulting project with City of Toronto, which was completed in 2020.
 To achieve this goal, I have carried out the following tasks:
 - Performed exploratory data analysis (EDA) on the dataset provided by City of Toronto, which contains around 2.6 million rows and 38 sets of features
 - Developed DBSCAN and OPTICS clustering models to detect around 300 accident-prone points (hot spots) out of around 1 million accident points in Toronto 
-- Applied machine learning algorithms (random forest and gradient boosting classifiers) combined with oversampling methods (SMOTE and ADASYN) and PCA to identify the important features (using Shapley values) that cause KSI (killed or seriously injured) accidents
+- Applied machine learning algorithms (random forest and gradient boosting classifiers) combined with oversampling methods (SMOTE and ADASYN) and PCA to identify the important features (using Shapley values from game theory) that cause KSI (killed or seriously injured) accidents
   
 ### Description of Data
 1. The dataset form City of Toronto contains collision occurrences and the actions and outcomes for individuals involved in them from 2000 - 2019.  The data is approximately 2.6 million rows by 38 columns.  Columns include the longitude/latitude of collisions, time of day, day of year, road conditions (wet, dry), actions taken by road users (e.g. driver going straight, driver turning, pedestrian crossing street), injuries sustained, etc.  An incomplete data dictionary can be found here: https://github.com/CityofToronto/vz_challenge/tree/master/transportation/collisions#data-dictionary
